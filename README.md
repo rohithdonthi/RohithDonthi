@@ -10,11 +10,11 @@ I build end-to-end ML pipelines - data → modeling → calibration → monitori
 Production-style underwriting pipeline: calibrated PD model → scorecard (PDO) mapping → decision/reason codes → PSI drift monitoring, built on a fully synthetic, compliance-documented credit bureau dataset.
 
 **[Energy Market Forecasting & Policy Impact Analysis](https://github.com/rohithdonthi/Energy-Market-Forecasting-and-Policy-Impact-Analysis)**
-Forecasts U.S. state-level electricity generation mix (50 states, 1990–2023) using CLR-transformed compositional time series and per-state VAR models — including an honest benchmark against a persistence baseline.
+Forecasts U.S. state-level electricity generation mix (50 states, 1990–2023) using CLR-transformed compositional time series and per-state VAR models - including an honest benchmark against a persistence baseline.
 
 ### Background
 
-- Data Science Intern, **Synergy Resources** — built a credit underwriting pipeline (AUC 0.87) supporting a 50K+ account portfolio
+- Data Science Intern, **Synergy Resources** - built a credit underwriting pipeline (AUC 0.87) supporting a 50K+ account portfolio
 - Statistics Grader & Mentor, Rutgers University (2 years)
 - Certifications: Bloomberg Market Concepts (BMC), Financial Statistics & Risk Management (FSRM)
 
