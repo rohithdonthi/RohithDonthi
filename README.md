@@ -5,10 +5,10 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Bloomberg Market Concepts](https://img.shields.io/badge/BMC-Bloomberg%20Market%20Concepts-000000?style=flat)
+![Bloomberg Market Concepts](https://img.shields.io/badge/BMC-Bloomberg%20Market%20Concepts-1F2937?style=flat)
 ![Financial Statistics & Risk Management](https://img.shields.io/badge/FSRM-Financial%20Statistics%20%26%20Risk%20Management-1F4E79?style=flat)
 
-![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohithdonthi&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
+![GitHub contribution statistics showing commits, pull requests, and repository activity](https://github-readme-stats.vercel.app/api?username=rohithdonthi&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
 
 Data Scientist specializing in **credit risk modeling** and **energy market analytics**, with an MS in Data Science (Statistics Track) from Rutgers University.
 
