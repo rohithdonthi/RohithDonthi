@@ -2,7 +2,7 @@
 
 Data Scientist specializing in **credit risk modeling** and **energy market analytics**, with an MS in Data Science (Statistics Track) from Rutgers University.
 
-I build end-to-end ML pipelines — data → modeling → calibration → monitoring — and I'm especially interested in problems where statistical rigor and domain context both matter: credit underwriting, energy markets, and policy analysis.
+I build end-to-end ML pipelines - data → modeling → calibration → monitoring - and I'm especially interested in problems where statistical rigor and domain context both matter: credit underwriting, energy markets, and policy analysis.
 
 ### Featured projects
 
